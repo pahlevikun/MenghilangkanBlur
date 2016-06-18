@@ -1,2 +1,2 @@
 # MenghilangkanBlur
-Kode sederhana untuk Menghilangkan Blur pada Gambar Menggunakan Laplace menggunakan OpenCV dikombinasikan dengan XCode
+Kode sederhana untuk Menghilangkan Blur pada Gambar Menggunakan Laplace dengan OpenCV dikombinasikan XCode
